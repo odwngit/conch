@@ -1,0 +1,13 @@
+say {string}
+clear
+round {number} {dp}
+calc | calculate {expression}
+conch | version
+python {command}
+cmd {command}
+date
+network | ip
+link {url}
+read {filepath}
+replace {str1} {str2} {in}
+exit
