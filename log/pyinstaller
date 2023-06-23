@@ -1,0 +1,2 @@
+py -m PyInstaller -c -i logo.ico --onefile conch.py
+py -m PyInstaller conch.spec
